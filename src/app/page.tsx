@@ -10,6 +10,7 @@ export default function Home() {
         <h1>Version 4</h1>
         <h1>Version 5 from Github</h1>
         <h1>Version 6 en local</h1>
+        <h1>Version 7 sur la branche de test</h1>
         <Image
           className="dark:invert"
           src="/next.svg"
