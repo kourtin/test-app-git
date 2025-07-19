@@ -6,6 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <h1>Version 1</h1>
         <h1>Version 2</h1>
+        <h1>Version 3</h1>
         <Image
           className="dark:invert"
           src="/next.svg"
